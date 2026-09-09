@@ -25,7 +25,6 @@ I learn mostly by building projects and trying to understand how things work rat
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 ### Tools & Systems
 
@@ -77,7 +76,6 @@ I'm still learning, and this GitHub is basically a record of that process.
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-in%20progress-6f42c1?style=flat-square"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-in%20progress-6f42c1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PyTorch-learning-6f42c1?style=flat-square"/>
   <img src="https://img.shields.io/badge/AI%20Engineering-learning-6f42c1?style=flat-square"/>
 </p>
 
